@@ -1,1 +1,1 @@
-# simpeg-api
+django rest with jwt auth
